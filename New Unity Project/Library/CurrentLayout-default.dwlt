@@ -149,10 +149,10 @@ MonoBehaviour:
     y: 741
     width: 2560
     height: 566
-  m_MinSize: {x: 709, y: 271}
-  m_MaxSize: {x: 18004, y: 10021}
+  m_MinSize: {x: 706, y: 271}
+  m_MaxSize: {x: 18001, y: 10021}
   vertical: 0
-  controlID: 105
+  controlID: 63
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -173,8 +173,8 @@ MonoBehaviour:
     y: 30
     width: 2560
     height: 1307
-  m_MinSize: {x: 709, y: 492}
-  m_MaxSize: {x: 18004, y: 14042}
+  m_MinSize: {x: 706, y: 492}
+  m_MaxSize: {x: 18001, y: 14042}
   vertical: 0
   controlID: 81
 --- !u!114 &8
@@ -292,8 +292,8 @@ MonoBehaviour:
     y: 0
     width: 2560
     height: 1307
-  m_MinSize: {x: 709, y: 492}
-  m_MaxSize: {x: 18004, y: 14042}
+  m_MinSize: {x: 706, y: 492}
+  m_MaxSize: {x: 18001, y: 14042}
   vertical: 1
   controlID: 82
 --- !u!114 &13
@@ -426,11 +426,11 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Lego Racer
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Lego Racer
   m_LastFoldersGridSize: -1
   m_LastProjectPath: G:\MoonCast\3D\LegoRacer Remasted\LegoRacersRemasted\New Unity
     Project
@@ -438,9 +438,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d2430000
-    m_LastClickedID: 17362
-    m_ExpandedIDs: 00000000d243000000ca9a3b
+    m_SelectedIDs: 50440000
+    m_LastClickedID: 17488
+    m_ExpandedIDs: 00000000d243000050440000524400005644000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -495,7 +495,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -512,7 +512,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 8}
+      m_ClientGUIView: {fileID: 4}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -553,9 +553,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 5c430000
-      m_LastClickedID: 17244
-      m_ExpandedIDs: 72fbffff24430000504300005c430000
+      m_SelectedIDs: faacffff
+      m_LastClickedID: -21254
+      m_ExpandedIDs: 28b0ffff72fbffff7c430000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -608,16 +608,16 @@ MonoBehaviour:
   m_ShowContextualTools: 0
   m_WindowGUID: 1b3c41450ee79fc42b60a54f97260a04
   m_Gizmos: 1
-  m_SceneIsLit: 1
+  m_SceneIsLit: 0
   m_SceneLighting: 1
   m_2DMode: 0
   m_isRotationLocked: 0
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.7111768, y: 0.32419193, z: 0.09950932}
+    m_Target: {x: -1.7591441, y: 1.0979252, z: -6.839987}
     speed: 2
-    m_Value: {x: -0.7111768, y: 0.32419193, z: 0.09950932}
+    m_Value: {x: -1.7591441, y: 1.0979252, z: -6.839987}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -663,13 +663,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.28471538, y: 0.35591292, z: -0.1120197, w: 0.88345057}
+    m_Target: {x: 0.19723926, y: -0.0995387, z: 0.02310293, w: 0.9754335}
     speed: 2
-    m_Value: {x: 0.2846058, y: 0.35577592, z: -0.11197659, w: 0.8831105}
+    m_Value: {x: 0.19712403, y: -0.100960575, z: 0.023389228, w: 0.9748857}
   m_Size:
-    m_Target: 0.21100163
+    m_Target: 3.2110016
     speed: 2
-    m_Value: 0.21100163
+    m_Value: 3.5110016
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -806,6 +806,6 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 814
-    width: 1230
+    width: 1222
     height: 545
   m_ViewDataDictionary: {fileID: 0}
